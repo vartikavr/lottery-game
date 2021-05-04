@@ -1,0 +1,41 @@
+html{
+    background-color: rgba(190, 144, 212, 0.6);
+}
+
+label{
+    display: inline-block;
+}
+
+input{
+    width: 25%;
+    height: 50%;
+}
+
+.flashError{
+    margin-top: 1em;
+    padding: 0.5;
+    font-weight: 500;
+    font-size: 0.9rem;
+    text-align: center;
+    background-color: rgba(255,0,0,0.3);
+}
+
+.App{
+    margin-top: 7em;
+}
+
+#root{
+    background-color: rgba(190, 144, 212, 0.6);
+}
+
+.form-label{
+    font-size: 1.25rem;
+}
+
+.heading{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h4{
+    font-family: 'Rubik', sans-serif;
+}
