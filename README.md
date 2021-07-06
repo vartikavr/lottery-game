@@ -1,3 +1,6 @@
+# Lottery Game
+A basic react web-app for the lottery game smart contract (https://github.com/vartikavr/Lottery-smart-contract).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
